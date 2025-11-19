@@ -1103,7 +1103,7 @@
         watermark.innerHTML = `
             <div style="display: flex; gap: 8px; align-items: center; color: rgba(255,255,255,0.7); margin-top: 8px; justify-content: flex-end;">
                 <span style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 13px; font-weight: 400;">@RHNT-FX</span>
-                <a href="https://github.com/mzzvxm" target="_blank" title="GitHub" style="line-height: 0; color: inherit; transition: color 0.2s ease;">${githubIcon}</a>
+                <a href="https://github.com/RHNT-FX" target="_blank" title="GitHub" style="line-height: 0; color: inherit; transition: color 0.2s ease;">${githubIcon}</a>
                 <a href="httpsa://instagram.com/drehant_" target="_blank" title="Instagram" style="line-height: 0; color: inherit; transition: color 0.2s ease;">${instagramIcon}</a>
             </div>
         `;
