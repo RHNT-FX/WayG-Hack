@@ -2,7 +2,7 @@
 // @name         Quizizz Bypass (Bahasa Indonesia)
 // @version      50.0
 // @description  Menyelesaikan soal Quizizz
-// @author       mzzvxm
+// @author       RHNT-FX
 // @icon         https://tse1.mm.bing.net/th/id/OIP.Ydweh29BuHk_PGD4dGJXbAHaHa?rs=1&pid=ImgDetMain&o=7&rm=3
 // @match        https://wayground.com/join/game/*
 // @grant        none
